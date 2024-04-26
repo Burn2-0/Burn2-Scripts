@@ -1,6 +1,6 @@
 # Burn2-Scripts
 
-##Burn2 General Script Library.
+## Burn2 General Script Library.
 
 ### Naming Schema
 
@@ -10,6 +10,16 @@ Intial thoughts on this is that we go for:
 b2-[category]-[name]
 ```
 Category being where it would go in the official lsl wiki categorised Library, and Name being a short descriptive title for it.
+
+### Active
+
+| Directory | Category | Description |
+| --- | --- | --- |
+| audio | Sound, Music, Video |	Sound, music and video scripts. |
+| 1shots | Very simple utility scripts. | Usually Self-deleting. |
+
+### Prospective
+
 
 | Directory | Category | Description |
 | --- | --- | --- |
@@ -41,7 +51,6 @@ Category being where it would go in the official lsl wiki categorised Library, a
 | temprez | Holodecks |	Holodeck scripts. |
 | hud | HUD (Heads Up Display) |	HUD scripts. |
 | server | Servers |	Scripts to serve up content to users, e.g. Update Servers, Vendor Services, etc. |
-| audio | Sound, Music, Video |	Sound, music and video scripts. |
 | particles | Particles |	Particle scripts. |
 | lists | Lists |	List scripts. |
 | club | Club |	Dance, DJ and club scripts. |
