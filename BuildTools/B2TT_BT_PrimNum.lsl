@@ -1,3 +1,5 @@
+string ignition = "https://github.com/Burn2-0/Burn2-Scripts/blob/main/BuildTools/B2TT_BT_PrimNum.lsl";
+
 /* ==)°(====)°(====)°(====)°(====)°(====)°(====)°(====)°(====)°(====)°(==*\
 ||                         (                   )                         ||
 ||                       ( )\   (  (        ( /(                         ||
@@ -24,9 +26,7 @@
 ||         + Labels will go,                                             ||
 ||         + Script removes itself. (lnt)                                ||
 ||       * Hope it don't explode....                                     ||
-\*__________________________________)°(__________________________________*/
-string ignition = 
-/*__________________________________)°(__________________________________*\
+||__________________________________)°(__________________________________||
 ||  Licence: B2TT_BT_PrimNum.lsl © 2024 by Talia Tokugawa                ||
 ||           is licensed under                                           ||
 ||           Attribution-NonCommercial 4.0 International                 ||
