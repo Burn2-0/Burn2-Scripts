@@ -48,7 +48,7 @@ default {
   state_entry(){ on=TRUE; labels(on); }
   touch_start(integer itp){ llResetTime(); }
   touch_end(integer itp){
-      if (llGetTime()>5&&llDetectedKey(0)==llGetOwner()) { 
+      if (llGetTime()>3&&llDetectedKey(0)==llGetOwner()) { 
         llWhisper(0, ")'( ["+ignition+" Leave-No-Trace!] )'("); labels(FALSE); 
         llRemoveInventory(llGetScriptName());
       } else { on=!on; labels(on); }
