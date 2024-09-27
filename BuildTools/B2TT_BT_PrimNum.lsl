@@ -37,7 +37,7 @@ integer on=TRUE;
 /*____________________________________________________)°(___Global_Vars___*/
 
 /*___)°(___Functions______________________________________________________*/
-labels(integer oo) { integer n = llGetNumberOfPrims();
+labels(integer oo) { integer n = llGetNumberOfPrims() + 1;
   while (--n>0) {
     llSetLinkPrimitiveParamsFast(n, [PRIM_TEXT,(string)n, <1,1,1>, oo]);
 }}
