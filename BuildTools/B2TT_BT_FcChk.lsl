@@ -1,6 +1,6 @@
 /* ==)°(====)°(====)°(====)°(====)°(====)°(====)°(====)°(====)°(====)°(==*\ 
 /* */    string pit="https://github.com/Burn2-0/Burn2-Scripts/";      /* */
-/* */                string fuel="blob/main/BuildTools/";                  /* */
+/* */                string fuel="blob/main/BuildTools/";             /* */
 /*__________________________________)°(__________________________________*\
 ||                         (                   )                         ||
 ||                       ( )\   (  (        ( /(                         ||
@@ -10,7 +10,7 @@
 ||                       | _ | || | '_| ' \)/ /                          ||
 ||                       |___/\_,_|_| |_||_/___(                         ||
 ||__________________________________)°(__________________________________||
-||  Project:  B2TT-Build_Tools-Face_Checker                             ||
+||  Project:  B2TT-Build_Tools-Face_Checker                              ||
 ||__________________________________)°(__________________________________||
 ||  Author:   Talia Tokugawa     */string Script="B2TT_BT_FcChk.lsl";  /*||
 ||__________________________________)°(__________________________________||
@@ -28,7 +28,7 @@
 ||         + Hold for 3, Script removes itself. (lnt)                    ||
 ||                                         * Hope it don't explode....   ||
 ||__________________________________)°(__________________________________||
-||  Licence: B2TT_BT_FcChk.lsl © 2024 by Talia Tokugawa                ||
+||  Licence: B2TT_BT_FcChk.lsl © 2024 by Talia Tokugawa                  ||
 ||           is licensed under                                           ||
 ||           Attribution-NonCommercial 4.0 International                 ||
 || ==)°(====)°(====)°(====)°(====)°(====)°(====)°(====)°(====)°(====)°(==||
